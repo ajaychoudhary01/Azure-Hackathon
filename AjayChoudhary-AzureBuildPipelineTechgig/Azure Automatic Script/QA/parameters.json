@@ -1,0 +1,99 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_qa_techgighachathon_name": {
+            "value": null
+        },
+        "servers_qa_techgighachathon_name": {
+            "value": null
+        },
+        "components_qa_techgighachathon_name": {
+            "value": null
+        },
+        "config_web_name": {
+            "value": null
+        },
+        "databases_master_name": {
+            "value": null
+        },
+        "keys_ServiceManaged_name": {
+            "value": null
+        },
+        "auditingPolicies_Default_name": {
+            "value": null
+        },
+        "deployments_51518952879979_name": {
+            "value": null
+        },
+        "deployments_41518949912497_name": {
+            "value": null
+        },
+        "deployments_31518896292448_name": {
+            "value": null
+        },
+        "deployments_21518892318940_name": {
+            "value": null
+        },
+        "deployments_11518866289996_name": {
+            "value": null
+        },
+        "encryptionProtector_current_name": {
+            "value": null
+        },
+        "databases_qa_techgighachathon_name": {
+            "value": null
+        },
+        "firewallRules_AllowAllWindowsAzureIps_name": {
+            "value": null
+        },
+        "auditingPolicies_Default_name_1": {
+            "value": null
+        },
+        "geoBackupPolicies_Default_name": {
+            "value": null
+        },
+        "backupLongTermRetentionVaults_RegisteredVault_name": {
+            "value": null
+        },
+        "firewallRules_ClientIPAddress_2018_2_17_23_44_3_name": {
+            "value": null
+        },
+        "advisors_DropIndex_name": {
+            "value": null
+        },
+        "transparentDataEncryption_current_name": {
+            "value": null
+        },
+        "advisors_CreateIndex_name": {
+            "value": null
+        },
+        "hostNameBindings_qa_techgighachathon.azurewebsites.net_name": {
+            "value": null
+        },
+        "auditingPolicies_Default_name_2": {
+            "value": null
+        },
+        "geoBackupPolicies_Default_name_1": {
+            "value": null
+        },
+        "backupLongTermRetentionPolicies_Default_name": {
+            "value": null
+        },
+        "advisors_ForceLastGoodPlan_name": {
+            "value": null
+        },
+        "advisors_DbParameterization_name": {
+            "value": null
+        },
+        "transparentDataEncryption_current_name_1": {
+            "value": null
+        },
+        "backupLongTermRetentionPolicies_Default_name_1": {
+            "value": null
+        },
+        "sites_qa_techgighachathon_serverFarmId": {
+            "value": null
+        }
+    }
+}

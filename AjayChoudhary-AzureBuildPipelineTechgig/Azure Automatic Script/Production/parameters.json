@@ -1,0 +1,144 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_techgighachathon_name": {
+            "value": null
+        },
+        "servers_techgighachathondb_name": {
+            "value": null
+        },
+        "components_techgighachathon_name": {
+            "value": null
+        },
+        "config_web_name": {
+            "value": null
+        },
+        "serverfarms_techgighachathonserviceplan_name": {
+            "value": null
+        },
+        "webtests_vsts_web_test_1518866412720_name": {
+            "value": null
+        },
+        "storageAccounts_techgighachathondiag563_name": {
+            "value": null
+        },
+        "databases_master_name": {
+            "value": null
+        },
+        "keys_ServiceManaged_name": {
+            "value": null
+        },
+        "deployments_51518952962478_name": {
+            "value": null
+        },
+        "deployments_41518949994176_name": {
+            "value": null
+        },
+        "deployments_31518896376150_name": {
+            "value": null
+        },
+        "deployments_21518892446656_name": {
+            "value": null
+        },
+        "deployments_11518867019881_name": {
+            "value": null
+        },
+        "deployments_11518866567456_name": {
+            "value": null
+        },
+        "deployments_41518865944557_name": {
+            "value": null
+        },
+        "deployments_31518863534690_name": {
+            "value": null
+        },
+        "deployments_21518862325183_name": {
+            "value": null
+        },
+        "alertrules_Availability_New_Release_Definition_name": {
+            "value": null
+        },
+        "auditingPolicies_Default_name": {
+            "value": null
+        },
+        "alertrules_Availability_TechgigHachathonRelease_name": {
+            "value": null
+        },
+        "alertrules_FailedRequests_New_Release_Definition_name": {
+            "value": null
+        },
+        "alertrules_FailedRequests_TechgigHachathonRelease_name": {
+            "value": null
+        },
+        "encryptionProtector_current_name": {
+            "value": null
+        },
+        "alertrules_ServerExceptions_New_Release_Definition_name": {
+            "value": null
+        },
+        "databases_techgighachathondb_name": {
+            "value": null
+        },
+        "alertrules_ServerExceptions_TechgigHachathonRelease_name": {
+            "value": null
+        },
+        "alertrules_ServerResponseTime_New_Release_Definition_name": {
+            "value": null
+        },
+        "alertrules_ServerResponseTime_TechgigHachathonRelease_name": {
+            "value": null
+        },
+        "firewallRules_AllowAllWindowsAzureIps_name": {
+            "value": null
+        },
+        "auditingPolicies_Default_name_1": {
+            "value": null
+        },
+        "geoBackupPolicies_Default_name": {
+            "value": null
+        },
+        "backupLongTermRetentionVaults_RegisteredVault_name": {
+            "value": null
+        },
+        "firewallRules_ClientIPAddress_2018_2_17_17_15_7_name": {
+            "value": null
+        },
+        "firewallRules_ClientIPAddress_2018_2_17_22_7_37_name": {
+            "value": null
+        },
+        "advisors_DropIndex_name": {
+            "value": null
+        },
+        "hostNameBindings_techgighachathon.azurewebsites.net_name": {
+            "value": null
+        },
+        "advisors_CreateIndex_name": {
+            "value": null
+        },
+        "transparentDataEncryption_current_name": {
+            "value": null
+        },
+        "auditingPolicies_Default_name_2": {
+            "value": null
+        },
+        "geoBackupPolicies_Default_name_1": {
+            "value": null
+        },
+        "advisors_ForceLastGoodPlan_name": {
+            "value": null
+        },
+        "backupLongTermRetentionPolicies_Default_name": {
+            "value": null
+        },
+        "advisors_DbParameterization_name": {
+            "value": null
+        },
+        "transparentDataEncryption_current_name_1": {
+            "value": null
+        },
+        "backupLongTermRetentionPolicies_Default_name_1": {
+            "value": null
+        }
+    }
+}
